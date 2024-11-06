@@ -25,3 +25,4 @@ export function PlacaDeVideo({ nome, preco }) {
     </div>
   );
 }
+commit 1
