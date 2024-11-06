@@ -27,4 +27,4 @@ export function PlacaDeVideo({ nome, preco }) {
 }
 commit 1
 commit 2
-commit 3
+apagando
